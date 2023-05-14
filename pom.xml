@@ -50,6 +50,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<suiteXmlFile>testng.xml</suiteXmlFile>
+						<suiteXmlFile>sanity.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
